@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Domain/Domain.csproj" Id="41f2876b-c0cb-4b1d-bde6-7acd47981cad" />
+  <Project Path="JsonAPI/JsonAPI.csproj" />
+</Solution>
